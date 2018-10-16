@@ -11,11 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var LeftImageView: UIImageView!
-    
     @IBOutlet weak var RightImageView: UIImageView!
-    
     @IBOutlet weak var LeftScoreLabel: UILabel!
-    
     @IBOutlet weak var RightScoreLabel: UILabel!
     
     var LeftScore = 0
